@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [tbelier.github.io/assets/pdf/CV_Thèse.pdf](tbelier.github.io/assets/pdf/CV_Thèse.pdf)
 
-- ⚡ Fun fact **I enjoy developing Unity gamesby myself !**
+- ⚡ Fun fact **I enjoy developing Unity games by myself !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
