@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ROS2, Unity and web development**
 
-- 👨‍💻 All of my projects are available at [tbelier.github.io](tbelier.github.io)
+- 👨‍💻 All of my projects are available at [tbelier.github.io](https://github.com/tbelier/tbelier.github.io)
 
 - 💬 Ask me about **autonomous robotics, control and navigation**
 
