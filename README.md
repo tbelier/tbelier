@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **titouan.belier@gmail.com**
 
-- 📄 Know about my experiences [tbelier.github.io/assets/pdf/CV_Thèse.pdf](tbelier.github.io/assets/pdf/CV_Thèse.pdf)
+- 📄 Know about my experiences [https://github.com/tbelier/tbelier.github.io/blob/cce8ceb8723189158c6927f7349a31562c4a3960/assets/pdf/CV_Th%C3%A8se.pdf](tbelier.github.io/assets/pdf/CV_Thèse.pdf)
 
 - ⚡ Fun fact **I enjoy developing Unity games by myself !**
 
