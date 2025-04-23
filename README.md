@@ -56,26 +56,23 @@
 
 <p align="left">
 <h3 align="left">Articles published in peer-reviewed journals:</h3>
-Loïck Degorre, Lionel Lapierre, Titouan Belier. New Formulation and Experimental Validation of the Kinematic Guidance Principle on an Underactuated Uncrewed Surface Vessel. IFAC Mechatronics and Robotics Symposia, Jul 2025, Paris, France. ⟨hal-04989324⟩ [link](https://hal.science/hal-04989324v1)
+Loïck Degorre, Lionel Lapierre, Titouan Belier. **New Formulation and Experimental Validation of the Kinematic Guidance Principle on an Underactuated Uncrewed Surface Vessel**. IFAC Mechatronics and Robotics Symposia, Jul 2025, Paris, France. ⟨hal-04989324⟩ [link](https://hal.science/hal-04989324v1)
 </p>
 
 <p align="left">
 <h3 align="left">🎤 Oral presentations at conferences and seminars</h3>
-*"Autonomous Underwater Swarms: Docking problem and control strategies"*  
+**"Autonomous Underwater Swarms: Docking problem and control strategies"**  
 at Les Ateliers des Capucins in Brest, on June 23-26, 2025. [📄 Poster (PDF)](src/PosterICETC.pdf)
-
-
-  
 </p>
 
 <p align="left">
 <h3 align="left">🎤 Public Science Presentation</h3>
-Bring your science: "La robotique autonome au service de l'exploration sous-marine",
+Bring your science: **"La robotique autonome au service de l'exploration sous-marine"**,
 Science outreach event, Les Ateliers des Capucins, Brest, France, June 11, 2025.
 
-An eye over Science: "Un essaim sous l’océan : quand les robots s’entraident ?",
+An eye over Science: **"Un essaim sous l’océan : quand les robots s’entraident ?"**,
 Science outreach event, Les Ateliers des Capucins, Brest, France, April 9, 2025.
 
-Poster presentation: *"Can we control a swarm of underwater robots?"*  
+Poster presentation: **"Can we control a swarm of underwater robots?"** 
 at Les Ateliers des Capucins in Brest, on April 5, 2025. [📄 Poster (PDF)](src/PosterCapucins.pdf)
 </p>
