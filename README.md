@@ -52,3 +52,31 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+
+
+<p align="left">
+<h3 align="left">Articles published in peer-reviewed journals:</h3>
+Loïck Degorre, Lionel Lapierre, Titouan Belier. New Formulation and Experimental Validation of the Kinematic Guidance Principle on an Underactuated Uncrewed Surface Vessel. IFAC Mechatronics and Robotics Symposia, Jul 2025, Paris, France. ⟨hal-04989324⟩ [link](https://hal.science/hal-04989324v1)
+</p>
+
+<p align="left">
+<h3 align="left">Oral presentations at conferences and seminars:</h3>
+
+
+  
+</p>
+
+<p align="left">
+<h3 align="left">Science Communication:</h3>
+
+Bring your science: "La robotique autonome au service de l'exploration sous-marine",
+Science outreach event, Les Ateliers des Capucins, Brest, France, June 11, 2025.
+
+An eye over Science: "Un essaim sous l’océan : quand les robots s’entraident ?",
+Science outreach event, Les Ateliers des Capucins, Brest, France, April 9, 2025.
+
+
+  
+Poster presentation: Can we control a swarm of underwater robots?,
+Science outreach event, Les Ateliers des Capucins, Brest, France, April 5, 2025.
+</p>
