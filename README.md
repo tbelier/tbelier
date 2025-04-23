@@ -73,7 +73,7 @@
 
 - **An eye over Science:** *"Un essaim sous l’océan : quand les robots s’entraident ?"*  
 📍 *Les Ateliers des Capucins, Brest, France – April 9, 2025*
-[📄 Poster (PDF)](src/250407_presentationCapucins.pdf)
+[📄 Presentation (PDF)](src/250407_presentationCapucins.pdf)
 
 - **Poster presentation:** *"Can we control a swarm of underwater robots?"*  
 📍 *Les Ateliers des Capucins, Brest – April 5, 2025*  
