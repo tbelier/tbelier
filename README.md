@@ -61,7 +61,7 @@
 ## 🎤 Oral presentations at conferences and seminars
 
 - **"Autonomous Underwater Swarms: Docking problem and control strategies"**  
-📍 *Les Ateliers des Capucins, Brest – June 23–26, 2025*  
+📍 *IEEE International Conference on Emerging Technologies and Computing ICETC2025, Brest – June 23–26, 2025*  
 [📄 Poster (PDF)](src/PosterICETC.pdf)
 
 ---
