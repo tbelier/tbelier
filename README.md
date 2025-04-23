@@ -60,31 +60,22 @@ Loïck Degorre, Lionel Lapierre, Titouan Belier. New Formulation and Experimenta
 </p>
 
 <p align="left">
-## 🎤 Oral presentations at conferences and seminars:
-
+<h3 align="left">🎤 Oral presentations at conferences and seminars</h3>
 *"Autonomous Underwater Swarms: Docking problem and control strategies"*  
-at Les Ateliers des Capucins in Brest, on June 23-26, 2025.
+at Les Ateliers des Capucins in Brest, on June 23-26, 2025. [📄 Poster (PDF)](src/PosterICETC.pdf)
 
-👉 [📄 View the poster (PDF)](src/PosterICETC.pdf)
 
   
 </p>
 
 <p align="left">
-## 🎤 Public Science Presentation
-
+<h3 align="left">🎤 Public Science Presentation</h3>
 Bring your science: "La robotique autonome au service de l'exploration sous-marine",
 Science outreach event, Les Ateliers des Capucins, Brest, France, June 11, 2025.
 
 An eye over Science: "Un essaim sous l’océan : quand les robots s’entraident ?",
 Science outreach event, Les Ateliers des Capucins, Brest, France, April 9, 2025.
 
-
-
-
-I presented a poster titled *"Can we control a swarm of underwater robots?"*  
-at Les Ateliers des Capucins in Brest, on April 5, 2025.
-
-👉 [📄 View the poster (PDF)](src/PosterCapucins.pdf)
-  =
+Poster presentation: *"Can we control a swarm of underwater robots?"*  
+at Les Ateliers des Capucins in Brest, on April 5, 2025. [📄 Poster (PDF)](src/PosterCapucins.pdf)
 </p>
