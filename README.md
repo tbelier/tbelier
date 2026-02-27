@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [tbelier.github.io](https://github.com/tbelier/tbelier.github.io)
 - 💬 Ask me about **autonomous robotics, control, and navigation**
 - 📫 Reach me at **titouan.belier@gmail.com**
-- 📄 Know about my experiences [here (PDF)](https://github.com/tbelier/tbelier.github.io/blob/6e686bb867e4ee84cb622a6f6891c0854430dfc1/assets/pdf/BELIER_PhD_resume.pdf)
+- 📄 Know about my experiences [here (PDF)](https://github.com/tbelier/tbelier.github.io/assets/pdf/BELIER_PhD_resume.pdf)
 - ⚡ Fun fact: **I enjoy developing Unity games by myself!**
 
 ---
